@@ -11,5 +11,6 @@ if (hourNow > 18){
 } else{
   greeting = 'welcome';
 }
-const muestra = 'Que tengas una Feliz Navidad y que Dios bendiga tu camino..'
+const muestra = 'La relajación mental te ayuda a comprender mejor la vida.'
 document.getElementById('mas').textContent = greeting + ' ' + muestra;
+
