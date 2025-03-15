@@ -14,12 +14,15 @@ font-size: 30px;
   margin-left: auto;
   margin-right: auto;
 }
-iframe{
+.uno{
   width: 100%;
   height: 620px;
   margin-left: auto;
   margin-right: auto;
  
+}
+abbr{
+color: #0b356c;
 }
 #mas{
   color: #0b356c;

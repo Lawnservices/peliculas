@@ -11,6 +11,6 @@ if (hourNow > 18){
 } else{
   greeting = 'welcome';
 }
-const muestra = 'La relajación mental te ayuda a comprender mejor la vida.'
+const muestra = 'Estará disponible solo por una semana y luego pondremos otra.'
 document.getElementById('mas').textContent = greeting + ' ' + muestra;
 
