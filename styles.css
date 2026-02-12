@@ -1,11 +1,11 @@
 body{
 padding: 0;
 margin: 0;  
-background-color: #f1f5f9;
+background-color: #6da4db;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 header{
-background-color: white;
+background-color:#061120;
 overflow: hidden;
 
 }
@@ -14,14 +14,14 @@ max-width: 1200px;
 margin: 24px auto;
 }
 header nav h1{
-color: #061120;
+color: #acb2b9;
 }
 header nav h1::before{
 content:'...';
 color: blue;
 }
 main {
-max-width: 1400px;
+max-width: 1200px;
 margin: 24px auto;
 }
 main section p{
@@ -34,15 +34,15 @@ max-width: 1200px;
 margin: 24px auto;
 }
 .pelicula #peli{
-width: 100%;
+width: 90%;
 height: 660px;
 }
 footer{
-overflow: hidden;
+ 
 padding: 0;
 margin: 0;
 margin-top: 60px;
-overflow: hidden;
+ 
 }
 #piepagina{
 text-align: center;
